@@ -43,11 +43,11 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span> 
 						</button>
-						<a class="hidden-sm hidden-md hidden-lg navbar-brand" href="<?php echo site_url(); ?>">RMS 3.0</a>
+						<a class="hidden-sm hidden-md hidden-lg navbar-brand" href="<?php echo site_url(); ?>">MRC 1.0</a>
 					</div>
 					<div class="collapse navbar-collapse" id="TopNav">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="<?php echo site_url(); ?>">RMS 3.0</a></li>
+							<li class="active"><a href="<?php echo site_url(); ?>">MRC 1.0</a></li>
 							<li class="dropdown">
 								<a class="dropdown-toggle" data-toggle="dropdown" href="#">Database
 								<span class="caret"></span></a>
